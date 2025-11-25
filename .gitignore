@@ -1,0 +1,14 @@
+/assets/
+/cgi-bin/
+/config/condb1.php
+/img/
+/js/
+/sb-admin-pro/
+/sb-ui-kit-pro/
+/vendor/
+/.vscode/
+/.well-known/
+
+.DS_Store
+composer.lock
+composer.json
