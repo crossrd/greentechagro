@@ -24,7 +24,7 @@ logUserPageAccess($userID, basename(__FILE__, '.php'), '', '', $conn);
 				<div class="row">
                     <div class="col-md-4 mb-3">
                         <div class="card" style="width:400px">
-                            <img class="card-img-top" src="img/no_image.png" alt="Card image">
+                            <img class="card-img-top" src="img/gt-lhch.png" alt="Card image">
                             <div class="card-body">
                                 <h4 class="card-title">John Doe</h4>
                                 <p class="card-text">Some example text.</p>
@@ -33,7 +33,7 @@ logUserPageAccess($userID, basename(__FILE__, '.php'), '', '', $conn);
                     </div>
                     <div class="col-md-4 mb-3">
                         <div class="card" style="width:400px">
-                            <img class="card-img-top" src="img/no_image.png" alt="Card image">
+                            <img class="card-img-top" src="img/gt-bio.png" alt="Card image">
                             <div class="card-body">
                                 <h4 class="card-title">John Doe</h4>
                                 <p class="card-text">Some example text.</p>
@@ -42,7 +42,7 @@ logUserPageAccess($userID, basename(__FILE__, '.php'), '', '', $conn);
                     </div>
                     <div class="col-md-4 mb-3">
                         <div class="card" style="width:400px">
-                            <img class="card-img-top" src="img/no_image.png" alt="Card image">
+                            <img class="card-img-top" src="img/gt-calmix.png" alt="Card image">
                             <div class="card-body">
                                 <h4 class="card-title">John Doe</h4>
                                 <p class="card-text">Some example text.</p>
@@ -51,7 +51,7 @@ logUserPageAccess($userID, basename(__FILE__, '.php'), '', '', $conn);
                     </div>
                     <div class="col-md-4 mb-3">
                         <div class="card" style="width:400px">
-                            <img class="card-img-top" src="img/no_image.png" alt="Card image">
+                            <img class="card-img-top" src="img/gt-lhch.png" alt="Card image">
                             <div class="card-body">
                                 <h4 class="card-title">John Doe</h4>
                                 <p class="card-text">Some example text.</p>
@@ -60,7 +60,7 @@ logUserPageAccess($userID, basename(__FILE__, '.php'), '', '', $conn);
                     </div>
                     <div class="col-md-4 mb-3">
                         <div class="card" style="width:400px">
-                            <img class="card-img-top" src="img/no_image.png" alt="Card image">
+                            <img class="card-img-top" src="img/gt-bio.png" alt="Card image">
                             <div class="card-body">
                                 <h4 class="card-title">John Doe</h4>
                                 <p class="card-text">Some example text.</p>
@@ -69,7 +69,7 @@ logUserPageAccess($userID, basename(__FILE__, '.php'), '', '', $conn);
                     </div>
                     <div class="col-md-4 mb-3">
                         <div class="card" style="width:400px">
-                            <img class="card-img-top" src="img/no_image.png" alt="Card image">
+                            <img class="card-img-top" src="img/gt-calmix.png" alt="Card image">
                             <div class="card-body">
                                 <h4 class="card-title">John Doe</h4>
                                 <p class="card-text">Some example text.</p>
