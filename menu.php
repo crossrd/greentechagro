@@ -1,4 +1,4 @@
-<?php if ($status != '0') : ?>
+<?php if ($status == '0') : ?>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid px-4">
             <a class="navbar-brand" href="#">GreenTech</a>
@@ -8,14 +8,14 @@
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item"><a class="nav-link active" aria-current="page" href="index.php">Home</a></li>
-                    <li class="nav-item dropdown">
+                    <!-- <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="fas fa-user fa-fw mt-1"></i></a>
                         <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="auth-register-edit.php?id=<?=$userID?>"><i class="fa-solid fa-user me-2"></i>แก้ไขข้อมูลส่วนบุคคล</a></li>
                             <li><hr class="dropdown-divider" /></li>
                             <li><a class="dropdown-item" href="auth-logout.php"><i class="fa-solid fa-right-from-bracket me-2"></i>Logout</a></li>
                         </ul>
-                    </li>
+                    </li> -->
                 </ul>
             </div>
         </div>
